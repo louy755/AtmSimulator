@@ -24,7 +24,7 @@ namespace BankAccount
 
             Thread.Sleep(2000);// sleep 
 
-            Console.WriteLine(" Connecting Please wahite ....... ");
+            Console.WriteLine(" Connecting Please wait ....... ");
 
             Thread.Sleep(2000);
 
